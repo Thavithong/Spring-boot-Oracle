@@ -1,0 +1,17 @@
+com\unitel\vpg\partner\repository\TransLogRepository.class
+com\unitel\vpg\partner\service\TransLogService.class
+com\unitel\vpg\partner\config\WebMvcConfig.class
+com\unitel\vpg\partner\model\TransactionLog.class
+com\unitel\vpg\partner\model\TransLog.class
+com\unitel\vpg\partner\utils\Constant$ContentType.class
+com\unitel\vpg\partner\service\TransLogImpl.class
+com\unitel\vpg\partner\utils\Constant$ApiContext.class
+com\unitel\vpg\partner\utils\Constant.class
+com\unitel\vpg\partner\StartApplication.class
+com\unitel\vpg\partner\model\response\CommonResponse.class
+com\unitel\vpg\partner\service\TransLogImpl$1.class
+com\unitel\vpg\partner\controller\ApplicationController.class
+com\unitel\vpg\partner\model\response\ResponseAbstract.class
+com\unitel\vpg\partner\utils\Constant$ErrorCode.class
+com\unitel\vpg\partner\model\request\TransLogReq.class
+com\unitel\vpg\partner\utils\Constant$Status.class

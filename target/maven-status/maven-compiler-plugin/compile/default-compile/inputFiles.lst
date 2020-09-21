@@ -1,0 +1,12 @@
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\utils\Constant.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\model\request\TransLogReq.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\service\TransLogService.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\StartApplication.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\config\WebMvcConfig.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\service\TransLogImpl.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\repository\TransLogRepository.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\model\response\CommonResponse.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\model\response\ResponseAbstract.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\model\TransactionLog.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\controller\ApplicationController.java
+D:\UMoney_SVN\02.Source\VPGPartner\src\main\java\com\unitel\vpg\partner\model\TransLog.java
